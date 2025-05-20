@@ -7,4 +7,18 @@
   - Surround
 - Prompt to Code Generation flow:
   Code Editor -> Proxy Server -> Toxicity Filter -> LLM
+- Visual Studio Code has a feature called agents that allows you to interact with GitHub Copilot. agents allow you to ask questions using a specific context. For example the @terminal agent helps you chat with GitHub Copilot to interact with the terminal.
+- @workspace
+  @terminal: Provides suggestions based on the terminal output.
+  Example: @terminal How do I fix the error message I'm seeing?
+  @file: Focuses on the content of a specific file.
+  Example: @file Can you help me refactor this function in main.py?
+  @directory: Considers the contents of a specific directory.
+  Example: @directory How can I optimize the scripts in the utils directory?
+- slash commands /
+- inline chat ( Ctrl + i )
+- GitHub provide legal Requirement by,
+  - IP indemnity
+  - Data Protection Agreement (DPA)
+  - GitHub Copilot Trust Center
 - 
